@@ -13,7 +13,7 @@ humandate: "September 14 - September 15, 2022"    # human-readable dates for the
 humantime: "9:00 am - 5:00 pm MT"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2022-09-14        # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-09-15        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Drew Allan Loney"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Drew Allan Loney "] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["N/A"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["dloney@usbr.gov"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
